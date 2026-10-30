@@ -12,6 +12,8 @@ Klasik blog sitelerinin aksine, buradaki yazılar bitmiş makaleler olmak zorund
 
 ## 🗺️ Gezinti Rehberi
 
+- **Rust Visual Notebook:** [[Rust/index|Rust language and GPU programming notes]] — concise English explanations with diagrams and examples.
+
 Sitemdeki notlar arasında gezinmek için aşağıdaki bağlantıları kullanabilir veya sağ üstteki **Arama** kutusunu kullanabilirsiniz.
 
 - **🌱 Fikir Tohumları:** Henüz olgunlaşmamış, üzerinde düşündüğüm ham fikirler.
